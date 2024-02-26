@@ -6,9 +6,8 @@
 * Week 9-12: Comparation with other similar solutions
 
 
+# Weekly Status:
 
-
-#################### Weekly Status ####################
 # Week 1:
 
 # Week 2:
