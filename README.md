@@ -1,4 +1,4 @@
-# ResearchPractice_Filippo_Pagotto
+# Research Practice: Filippo Pagotto
 
 # Plan for upcomming weeks:
 * Week 1-4: Code development
