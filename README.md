@@ -5,9 +5,6 @@
 * Week 5-8: Code optimization
 * Week 9-12: Comparation with other similar solutions
 
-
-# Weekly Status:
-
 # Week 1:
 
 # Week 2:
