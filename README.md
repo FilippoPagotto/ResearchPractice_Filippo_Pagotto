@@ -6,7 +6,7 @@
 * Week 9-12: Comparation with other similar solutions
 
 # Week 1:
-
+*05.03.2024*
 In this week's code, I employed machine learning techniques to predict traffic counts. Using the Python programming language, I loaded the dataset from a CSV file. As the CSV file is large, I plan to upload it to the repository at a later stage.
 
 The preprocessing steps involved handling missing values by filling them with column means and label encoding categorical columns. Two distinct feature selection methods, correlation matrix and ANOVA, were utilized, and neural network models were trained separately using features selected from each method.
