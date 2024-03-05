@@ -15,6 +15,8 @@ Predictions were made on the test set for both correlation-based and ANOVA-based
 
 The code uses TensorFlow and Keras for building and training the neural network models. Additionally, scatter plots were generated to visually compare predicted vs actual values for both feature selection methods, providing a comprehensive exploration of feature selection and neural network modeling for traffic count prediction.
 
+*Sorry for the late upload but I had some problem with my personal computer and could not access the code i already worked on*
+
 # Week 2:
 
 Planned to do:
