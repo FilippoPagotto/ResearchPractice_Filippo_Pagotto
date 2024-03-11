@@ -6,7 +6,7 @@
 * Week 9-12: Comparation with other similar solutions
 
 # Week 1:
-*05.03.2024*
+*04.03.2024*
 
 In this week's code, I employed machine learning techniques to predict traffic counts. Using the Python programming language, I loaded the dataset from a CSV file. As the CSV file is large, I plan to upload it to the repository at a later stage.
 
@@ -19,14 +19,28 @@ The code uses TensorFlow and Keras for building and training the neural network 
 *Sorry for the late upload but I had some problem with my personal computer and could not access the code i already worked on*
 
 # Week 2:
+*05.03.2024*
 
-Planned to do:
+Done:
 - Research an AI Model to apply to the dataset -> STGM/RGDAN (Done)
 - Research a better/updated dataset and apply the model to it
-- Start Model Implementation 
+
+Planned to do:
+- Research a better/updated dataset and apply the model to it
+- Start model implementation
+
+Desigred Resutls: 
+- Get better results the previous techniques using the model
 
 # Week 3:
+*11.03.2024*
 
+Planned to do: (Spillover due to blockingpoint)
+- Research a better/updated dataset and apply the model to it
+- Start model implementation
+
+
+  
 # Week 4:
 
 # Week 5:
