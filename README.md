@@ -36,7 +36,7 @@ Desigred Resutls:
 *11.03.2024*
 
 Planned to do: (Spillover due to blockingpoint)
-- Research a better/updated dataset and apply the model to it
+- Research a better/updated dataset and apply the model to it (New found datasets were private)
 - Start model implementation
 
 
