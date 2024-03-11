@@ -21,10 +21,9 @@ The code uses TensorFlow and Keras for building and training the neural network 
 # Week 2:
 
 Planned to do:
-- Split the training set handling code into a separate file to enhance code organization and maintainability
-- Explore different feature selection techniques
-- Consider recursive feature elimination or other advanced feature selection methods
-- Upload the large CSV file to the repository, ensuring that it's accessible for collaborative work
+- Research an AI Model to apply to the dataset -> STGM/RGDAN (Done)
+- Research a better/updated dataset and apply the model to it
+- Start Model Implementation 
 
 # Week 3:
 
