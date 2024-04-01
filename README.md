@@ -33,17 +33,23 @@ Desigred Resutls:
 - Get better results the previous techniques using the model
 
 # Week 3:
-*11.03.2024*
 
-Planned to do: (Spillover due to blockingpoint)
 - Research a better/updated dataset and apply the model to it (New found datasets were private)
 - Start model implementation
-
-
+- Reseached new model "RGDAN"
+- Found new dataset "PeMs"
   
 # Week 4:
 
+-Configure model
+-Research Model implementation 
+-Done some testruns with the RGDAN Model
+-Restuls: Are almost the same as the paper restults
+
 # Week 5:
+
+-Made research on GraphPooling and LSTM
+-Started doing implementation on GraphPooling and LSTM
 
 # Week 6:
 
