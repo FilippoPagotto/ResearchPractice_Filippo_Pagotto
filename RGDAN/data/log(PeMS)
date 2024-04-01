@@ -1,0 +1,7 @@
+time_slot=5, P=12, Q=12, L=1, K=8, d=8, adjdata='data/adj_mx_bay.pkl', adjtype='doubletransition', train_ratio=0.7, val_ratio=0.1, test_ratio=0.2, batch_size=64, max_epoch=100, patience=20, learning_rate=0.001, weight_decay=1e-05, decay_epoch=20, path='./', dataset='PeMS', load_model='F'
+loading data...
+trainX: (36458, 12, 325)	trainY: (36458, 12, 325)
+valX:   (5189, 12, 325)		valY:   (5189, 12, 325)
+testX:  (10400, 12, 325)		testY:  (10400, 12, 325)
+data loaded!
+**** training model ****
